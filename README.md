@@ -16,6 +16,7 @@ Workflow:
 
 The function will be useful for displaying the process of disorder created in exploration of free energy landscapes. It should also help display directions that may retain bulk periodic properties in an amorphous solids.
 
-![millersphere](https://github.com/user-attachments/assets/01f26330-98f9-4d57-b0ce-401c90fb6f91)
+![millersphere](https://github.com/user-attachments/assets/c4284eb7-31e3-4dfc-b768-baa1fbb3a06d)
+
 
 
